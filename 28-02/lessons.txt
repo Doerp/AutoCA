@@ -1,0 +1,5 @@
+Installationsfehler
+    schauen ob ich auch im virtuellen envi alles installiert habe oder nur global per line
+
+
+nicht alles auf teufel komm raus auf verschiedene Skripts verteilen. hier ist objektorientierung wichtig
